@@ -1,0 +1,27 @@
+# Slack ChatOps Splunk Bot
+
+A Slack ChatOps bot that responds to Slack slash commands and simulates Splunk alert searches.
+
+---
+
+## 🚀 Features
+- Slash command: `/search-alert`
+- Flask backend (Python)
+- Exposed to the internet using ngrok
+- Instant Slack responses
+
+---
+
+## 🛠 Tech Stack
+- Python 3
+- Flask
+- Slack API
+- ngrok
+
+---
+
+## ▶️ How to Run Locally
+
+Start the Flask app:
+```bash
+python app.py
